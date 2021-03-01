@@ -1,3 +1,3 @@
-# failosophy
+# Seminario Modelos y Representación.
 
-Mi sitio web personal https://oiuhukt.github.io/failosophy/
+https://oiuhukt.github.io/failosophy/
