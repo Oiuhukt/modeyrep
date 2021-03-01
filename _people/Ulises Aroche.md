@@ -1,4 +1,6 @@
 ---
 name: Ulises Aroche
-layout: author
+layout: default
 ---
+
+Mi nombre es ulises
