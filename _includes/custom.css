@@ -15,7 +15,7 @@
   /* Line height is set to the "Golden ratio" for optimal legibility */
   --line-height: 1.618;
 
-  --bg: #190204;
+  --bg: #ffffff;
   --accent-bg: #A82810;
   --text: #FFCBA4;
   --text-light: #ABABAB;
@@ -69,7 +69,7 @@ html {
 /* Make the body a nice central block */
 body {
   color: var(--text);
-  background: #190204;
+  background: var(--bg);
   font-size: var(--base-fontsize);
   line-height: var(--line-height);
   margin: 0;
