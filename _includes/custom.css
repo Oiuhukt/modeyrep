@@ -17,7 +17,7 @@
 
   --bg: #ffffff;
   --accent-bg: #A82810;
-  --text: #FFCBA4;
+  --text: #000000;
   --text-light: #ABABAB;
   --border: #666;
   --accent: #FFB300;
@@ -84,7 +84,7 @@ main {
 
 /* Make the header bg full width, but the content inline with body */
 header {
-	background: #021A18;
+	background: var(--bg);
 	border-bottom: 1px solid var(--border);
   padding: 1.5rem 15rem;
   margin-bottom: 3rem;
