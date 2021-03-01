@@ -3,8 +3,8 @@ plugins:
   - jekyll-sitemap
 
 # SEO Stuff
-author: Oscar Olivetti
-description: Sitio web personal
+author: El equipo
+description: Sitio web del seminario de Modelos y  Representaciones
 lang: en
 locale: en_GB
 url: ""
