@@ -1,3 +1,3 @@
 # Seminario Modelos y Representación.
 
-https://oiuhukt.github.io/failosophy/
+https://oiuhukt.github.io/modeyrep/
