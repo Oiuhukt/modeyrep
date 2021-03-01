@@ -1,17 +1,17 @@
-- name: Home
-  link: /failosophy/
+- name: Inicio
+  link: /modeyrep/
 
 - name: Blog
-  link: /failosophy/blog/
+  link: /modeyrep/blog/
 
 - name: Acerca
-  link: /failosophy/acerca/
+  link: /modeyrep/acerca/
 
-- name: Contacto
-  link: /failosophy/contacto/
+- name: Autoras
+  link: /modeyrep/writers/
 
 - name: Academia
-  link: /failosophy/academia/
+  link: /modeyrep/sesiones/
 
 - name: Links
   link: /failosophy/links

@@ -8,7 +8,7 @@ description: Sitio web personal
 lang: en
 locale: en_GB
 url: ""
-baseurl: "failosophy/"
+baseurl: "modeyrep/"
 
 # RSS feeds
 feed:
