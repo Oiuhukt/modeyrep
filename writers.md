@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Autoras
-header:
+header: Autoras
 description: Quienes participan
 permalink: /writers/
 ---
