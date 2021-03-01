@@ -3,7 +3,7 @@ layout: default
 title: Autoras
 header:
 description: Quienes participan
-permalink: /autoras/
+permalink: /writers/
 ---
 
 Autores de este proyecto:
