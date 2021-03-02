@@ -2,4 +2,4 @@
 name: Oscar Olivetti
 layout: author
 ---
-Amanda Visconti is Managing Director of the Scholars' Lab at the University of Virginia Library.
+Mi nombre es Oscar Abraham Olivetti Alvarez. Soy estudiante en el posgrado en Filosofía de la ciencia por la UNAM. No he publicado nada, por lo que no me llamaría a mí mismo filósofo. Mis áreas de interés son Filosofía de la biología, especialmente explicaciones causales en biología evolutiva.
