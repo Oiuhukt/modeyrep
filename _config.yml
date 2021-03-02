@@ -13,3 +13,10 @@ baseurl: "modeyrep/"
 # RSS feeds
 feed:
   posts_limit: 20
+
+
+#Autoras
+
+collections:
+  people:
+    output: true
