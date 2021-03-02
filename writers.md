@@ -10,5 +10,5 @@ Autoras de este proyecto:
 
 
 {% for person in site.people %}
-* <a href="{{ permalink | relative_url }}">{{ person.name }}</a>
+* <a href="{{ person.url | relative_url }}">{{ person.name }}</a>
 {% endfor %}
