@@ -1,5 +1,5 @@
 ---
-title: Mi página web personal
+title: Seminario de Modelos y Representación
 header: Seminario Modelos y Representación
 description:
 permalink: /
